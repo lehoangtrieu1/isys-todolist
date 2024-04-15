@@ -38,4 +38,4 @@ function onTodoClicked(event){
 }
 // 3. Link event to the function
 addTaskButton.addEventListener('click', onAddTaskClicked);
-todoContainer.addEventListener('click', onTodoClicked)
+todoContainer.addEventListener('click', onTodoClicked);
